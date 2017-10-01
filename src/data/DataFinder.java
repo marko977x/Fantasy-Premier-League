@@ -9,7 +9,7 @@ import logic.Player;
 
 public class DataFinder {
 
-	public static String EXE_PATH = "E://Marko//Java//chromedriver.exe";
+	public static String EXE_PATH = "chromedriver.exe";
 	public static String URL = "https://fantasy.premierleague.com/a/statistics/ict_index";
 	public static String ROW_SELECTOR_BASE = "#ismr-main > div > div.table.ism-scroll-table > table > tbody > tr";
 	public static String BUTTON_SELECTOR = "#ismr-main > div > div.paginationContainer.ism-pagination > a:nth-child(4)";

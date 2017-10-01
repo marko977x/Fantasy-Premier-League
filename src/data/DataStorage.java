@@ -78,8 +78,7 @@ public class DataStorage {
 	}
 
 	public void writeJsonToDisk() {
-		try (FileWriter file = new FileWriter(
-				"E:\\Marko\\Java\\Fantasy Premier League\\FantasyPremierLeague\\resource\\data.txt")) {
+		try (FileWriter file = new FileWriter("resource/data.txt")) {
 			file.write(this.data.toString());
 			file.flush();
 		} catch (IOException e) {
