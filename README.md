@@ -3,8 +3,8 @@
 Fantasy Football is a  game in which participants assemble an imaginary team of real life footballers and score points based on those player's actual statistical performance. This application picks a five team created by random picked players and ranking them.
 # Table of Contents
 
-* [Installation](#installation)
+* [Instructions](#instructions)
 * [Usage](#usage)
 
-# <a name="installation"></a>Installation
+# <a name="instructions"></a>Instructions
 # <a name="Usage"></a>Usage
