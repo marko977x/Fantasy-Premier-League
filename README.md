@@ -6,6 +6,7 @@ Fantasy Football is a  game in which participants assemble an imaginary team of 
 * [Instructions](#instructions)
 * [Usage](#usage)
 * [Support](#support)
+* [Contacts](#contacts)
 
 # <a name="instructions"></a>Instructions
 Steps to run the application : 
@@ -22,3 +23,6 @@ Steps to run the application :
 
 # <a name="Support"></a>Support
 Please [open a issue](https://github.com/marko977x/Fantasy-Premier-League/issues) for support or even more [open a pull request](https://github.com/marko977x/Fantasy-Premier-League/pulls).
+
+# <a name="Contacts"></a>Contacts
+Don't hesitate to ask me whatever you want. Contact me via email : marko977x@gmail.com
