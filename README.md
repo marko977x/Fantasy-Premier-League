@@ -17,7 +17,8 @@ Steps to run the application :
    * Run the app.
    
 # <a name="Usage"></a>Usage
-* ![webp net-gifmaker](https://user-images.githubusercontent.com/18104045/31276178-d27d0e5a-aa9a-11e7-9206-388694ccef9f.gif)Because of there already some data it is not necessary to click the Update button. If you click the Update button, it will appear chrome window. Data update will be completed when chrome window disappears.
+* <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/18104045/31276178-d27d0e5a-aa9a-11e7-9206-388694ccef9f.gif">
+Because of there already some data it is not necessary to click the Update button. If you click the Update button, it will appear chrome window. Data update will be completed when chrome window disappears.
 * After that, you can setup requirements for the team, which includes: the maximum sum of players price and number of midfield and attack players. When you have finished that, click on the Find button. 
 * In the drop-down menu, you will see the score of each team. After picking some team players will be shown below the drop-down menu.
 
