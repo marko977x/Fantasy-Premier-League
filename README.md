@@ -13,7 +13,7 @@ Steps to run the application :
    * A favorite IDE.
    * JDK 8 or later.
    * Download and unzip the source repository.
-   * Start your IDE and open your project.
+   * Start your IDE and open project.
    * Run the app.
    
 # <a name="Usage"></a>Usage
