@@ -9,7 +9,7 @@ public class Team {
 	private HashSet<Player> players;
 	public static final int MAX_PLAYERS = 7;
 	public static final int MIN_PLAYERS = 5;
-	public static final int MIN_POINTS = 20;
+	public static final int MIN_POINTS = 1;
 
 	public Team() {
 		this.players = new HashSet<Player>();

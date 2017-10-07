@@ -9,7 +9,7 @@ public class TeamRequirements {
 	private int numMiddlePlayer;
 	private float maxPrice;
 	private PlayerRequirements playerRequirements;
-	public static final int NUMERIC_FACTOR = 1000;
+	public static final int NUMERIC_FACTOR = 100;
 
 	public int getNumOffensePlayer() {
 		return this.numOffensePlayer;
