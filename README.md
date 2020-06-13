@@ -22,7 +22,7 @@ Steps to run the application :
 * In the drop-down menu, you will see the score for each team. After picking a team, players will be shown below the drop-down menu.
 
 # <a name="Support"></a>Support
-Please [open a issue](https://github.com/marko977x/Fantasy-Premier-League/issues) for support or even more [open a pull request](https://github.com/marko977x/Fantasy-Premier-League/pulls).
+Please [open an issue](https://github.com/marko977x/Fantasy-Premier-League/issues) for support or even more [open a pull request](https://github.com/marko977x/Fantasy-Premier-League/pulls).
 
 # <a name="Contacts"></a>Contacts
 Don't hesitate to ask me whatever you want. Contact me via email : marko977x@gmail.com
